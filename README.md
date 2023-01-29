@@ -8,4 +8,4 @@ This is a prototype of a smart door lock based on STM32 microcontroller, which p
 ## Hardware Design
 The smart door lock consists of two main parts, the electronic control unit and the execution unit. The electronic control unit includes a STM32F103 minimal system with a W25Q128 SPI flash onboard, an AS608 optical fingerprint sensor, a RC522 RFID reader, a 0.96-inch OLED screen, a DC-DC power supply module, a 3x4 matrix keyboard, a buzzer module, a LED module and an ESP8266 Wi-Fi module for IoT extension. The execution unit includes an electronic lock, a relay, a magnetometer and a Neodymium magnet. The outlook of the smart door lock is shown below.
 <br>
-![a](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)
+![a](https://github.com/zhangjingye03/BLE_WeRun_Faker/raw/master/circuit.png)
